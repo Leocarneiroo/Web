@@ -20,7 +20,7 @@ const MyComponent = () => {
           'https://games-test-api-81e9fb0d564a.herokuapp.com/api/data/',
           {
             headers: {
-              'dev-email-address': 'seu-email@example.com'
+              'dev-email-address': 'leocarneiroo@gmail.com'
             },
             timeout: 5000
           }
